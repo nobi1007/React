@@ -48,7 +48,7 @@
     "jsdom-global": "^3.0.2",
     "lint-staged": "^9.2.5",
     "lodash-es": "^4.17.11",
-    "mathjs": "^6.6.3",
+    "mathjs": "^7.5.1",
     "node-sass": "^4.11.0",
     "polished": "^3.3.2",
     "prettier": "^1.18.2",
